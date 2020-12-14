@@ -21,3 +21,5 @@ const capitalizeFirstLetters =(input)=>{
     }
   return output;
 }
+
+module.exports = capitalizeFirstLetters;
